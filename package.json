@@ -1,0 +1,16 @@
+{
+  "name": "web3rsvp",
+  "version": "1.0.0",
+  "description": "learning how to build dapps with WBW3 in the 30DaysChallenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node scripts/run.js"
+  },
+  "author": "Ayomide Bajo",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1"
+  }
+}
